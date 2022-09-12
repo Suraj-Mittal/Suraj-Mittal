@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj-Mittal
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C++
 - 📫 How to reach me gmail: surajmittal105@gmail.com, LinkedIn: https://www.linkedin.com/in/surajmittal/
 
 <!---
