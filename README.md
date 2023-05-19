@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile Application
 - 🔭 Exploring various domains of Computer Science and Engineerig: Machine Learning (like diffusion models and neural networks) and Systems Design
 - 🎓 Graduating this year in Computer Science program
-- 🌱 I’m currently learning Javascipt for a personal project
+- 🌱 I’m currently ...
 - 📫 How to reach me gmail: surajmittal105@gmail.com, LinkedIn: https://www.linkedin.com/in/surajmittal/
 
 <!---
