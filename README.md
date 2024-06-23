@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Suraj-Mittal
-- 👀 I’m interested in Web and Mobile Application
-- 🔭 Exploring various domains of Computer Science and Engineerig: Machine Learning (like diffusion models and neural networks) and Systems Design
-- 🎓 Graduating this year in Computer Science program
+- 👀 I’m interested in Systems Design 
+- 🔭 Exploring anything related to Computer Science
+- 🎓 2024 Graduate
 - 🌱 I’m currently ...
-- 📫 How to reach me gmail: surajmittal105@gmail.com, LinkedIn: https://www.linkedin.com/in/surajmittal/
+- 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/surajmittal/
 
 <!---
 Suraj-Mittal/Suraj-Mittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
